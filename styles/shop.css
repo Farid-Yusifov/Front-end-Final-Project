@@ -1,0 +1,16 @@
+#header{
+    background-color: rgb(79, 79, 224);
+    color: #ffffff;
+}
+#product_list{
+        background: rgb(255, 255, 255) none repeat scroll 0 0;
+       
+        
+        overflow: hidden;
+        padding: 45px 25px;
+        position: relative;
+        text-align: center;
+        transition: all 0.5s ease 0s;
+        margin-bottom: 20px;
+       }
+   
